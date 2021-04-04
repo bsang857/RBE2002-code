@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "ultrasonic",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
